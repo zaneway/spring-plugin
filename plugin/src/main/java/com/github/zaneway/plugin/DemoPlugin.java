@@ -9,10 +9,6 @@ public class DemoPlugin extends Plugin {
     super(pluginWrapper);
   }
 
-
-  public DemoPlugin() {
-  }
-
   @Override
   public void start() {
     System.out.println("plugins start");
